@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Delegate\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Properties\" />
+    <Folder Include="Result\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RegistroCombustibles.Common.Models\RegistroCombustibles.Common.Models.csproj" />
+    <ProjectReference Include="..\RegistroCombustibles.Common.Utils\RegistroCombustibles.Common.Utils\RegistroCombustibles.Common.Utils.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Xam.Plugin.Connectivity" Version="3.2.0" />
+  </ItemGroup>
+</Project>

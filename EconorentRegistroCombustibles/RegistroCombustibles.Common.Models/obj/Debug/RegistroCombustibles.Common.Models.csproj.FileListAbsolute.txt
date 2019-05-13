@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+=======
+/Users/pablogarrido/Desktop/Repositorios/EconorentRegistroCombustibles/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/bin/Debug/RegistroCombustibles.Common.Models.dll
+/Users/pablogarrido/Desktop/Repositorios/EconorentRegistroCombustibles/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/bin/Debug/RegistroCombustibles.Common.Models.pdb
+/Users/pablogarrido/Desktop/Repositorios/EconorentRegistroCombustibles/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/obj/Debug/RegistroCombustibles.Common.Models.csproj.CoreCompileInputs.cache
+/Users/pablogarrido/Desktop/Repositorios/EconorentRegistroCombustibles/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/obj/Debug/RegistroCombustibles.Common.Models.dll
+/Users/pablogarrido/Desktop/Repositorios/EconorentRegistroCombustibles/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/obj/Debug/RegistroCombustibles.Common.Models.pdb
+>>>>>>> 56bc68d2476bcf28ea985bab298d6cc4d1599187
+/Volumes/Proyectos/Dsac/TFS/Econorent-RegistroCombustible/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/bin/Debug/RegistroCombustibles.Common.Models.dll
+/Volumes/Proyectos/Dsac/TFS/Econorent-RegistroCombustible/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/bin/Debug/RegistroCombustibles.Common.Models.pdb
+/Volumes/Proyectos/Dsac/TFS/Econorent-RegistroCombustible/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/obj/Debug/RegistroCombustibles.Common.Models.csproj.CoreCompileInputs.cache
+/Volumes/Proyectos/Dsac/TFS/Econorent-RegistroCombustible/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/obj/Debug/RegistroCombustibles.Common.Models.dll
+/Volumes/Proyectos/Dsac/TFS/Econorent-RegistroCombustible/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/obj/Debug/RegistroCombustibles.Common.Models.pdb
+/Users/pablogarrido/Desktop/Repositorios/EconorrentAppRegistroCombustible/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/bin/Debug/RegistroCombustibles.Common.Models.dll
+/Users/pablogarrido/Desktop/Repositorios/EconorrentAppRegistroCombustible/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/bin/Debug/RegistroCombustibles.Common.Models.pdb
+/Users/pablogarrido/Desktop/Repositorios/EconorrentAppRegistroCombustible/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/obj/Debug/RegistroCombustibles.Common.Models.csproj.CoreCompileInputs.cache
+/Users/pablogarrido/Desktop/Repositorios/EconorrentAppRegistroCombustible/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/obj/Debug/RegistroCombustibles.Common.Models.dll
+/Users/pablogarrido/Desktop/Repositorios/EconorrentAppRegistroCombustible/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/obj/Debug/RegistroCombustibles.Common.Models.pdb

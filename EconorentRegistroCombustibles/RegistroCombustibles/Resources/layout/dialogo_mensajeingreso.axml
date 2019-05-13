@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:orientation="vertical" 
+    android:layout_width="match_parent" 
+    android:layout_height="match_parent"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="right">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/llPanelIngresoCombustibleOK"
+            android:background="@drawable/cssmodal"
+            android:layout_marginTop="30dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/lblTituloIngresoUno"
+                android:text="El registro ha"
+                android:textSize="20dp"                        
+                android:textColor="@color/colorNegro"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="55dp"               
+                android:gravity="center"
+                android:fontFamily="@font/roboto_regular"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/lblTituloIngresoDos"
+                android:text="quedado ingresado"
+                android:textSize="20dp"
+                android:textColor="@color/colorNegro"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="65dp"
+                android:gravity="center"
+                android:fontFamily="@font/roboto_regular"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/llBtnIngresoCombustibleOK"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="160dp"
+            android:layout_marginRight="30dp"
+            android:gravity="bottom"
+            android:foregroundGravity="bottom"
+            android:layout_gravity="bottom"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="75dp"
+                android:layout_height="match_parent"
+                android:id="@+id/btnIngresoCombustibleOK"
+                android:src="@drawable/ic_check"/>
+        </LinearLayout>        
+    </RelativeLayout>
+</LinearLayout>

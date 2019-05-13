@@ -1,0 +1,3 @@
+/Users/pablogarrido/Desktop/Repositorios/EconorrentAppRegistroCombustible/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/bin/Release/RegistroCombustibles.Common.Models.dll
+/Users/pablogarrido/Desktop/Repositorios/EconorrentAppRegistroCombustible/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/obj/Release/RegistroCombustibles.Common.Models.csproj.CoreCompileInputs.cache
+/Users/pablogarrido/Desktop/Repositorios/EconorrentAppRegistroCombustible/EconorentRegistroCombustibles/RegistroCombustibles.Common.Models/obj/Release/RegistroCombustibles.Common.Models.dll

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="cl.econorente.RegistroCombustibles">
+  <uses-sdk android:minSdkVersion="24" android:targetSdkVersion="28" />
+  <uses-permission android:name="android.permission.BLUETOOTH" />
+  <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+  <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <application android:allowBackup="true" android:label="@string/app_name" android:theme="@android:style/Theme.Holo.Light.DarkActionBar" android:icon="@mipmap/ic_app" android:name="android.app.Application">
+    <activity android:configChanges="orientation|screenSize" android:label="Ingreso BarCode" android:screenOrientation="portrait" android:theme="@style/ThemeNoActionBarBlue" android:name="md56a2365f18d7bdc1b1f7b15ea987efde5.IngresoCodigoAutoActivity" />
+    <activity android:configChanges="orientation|screenSize" android:label="Ingreso Combustible" android:screenOrientation="portrait" android:theme="@style/ThemeNoActionBarYellow" android:name="md56a2365f18d7bdc1b1f7b15ea987efde5.IngresoCombustibleActivity" />
+    <activity android:configChanges="orientation|screenSize" android:screenOrientation="portrait" android:name="md56a2365f18d7bdc1b1f7b15ea987efde5.LoadingDialogo" />
+    <activity android:configChanges="orientation|screenSize" android:screenOrientation="portrait" android:theme="@style/ThemeNoActionBarLogin" android:name="md56a2365f18d7bdc1b1f7b15ea987efde5.LoginActivity" />
+    <activity android:configChanges="orientation|screenSize" android:label="@string/app_name" android:screenOrientation="portrait" android:theme="@style/MyTheme.Splash" android:name="md56a2365f18d7bdc1b1f7b15ea987efde5.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:configChanges="orientation|screenSize" android:screenOrientation="portrait" android:name="md56a2365f18d7bdc1b1f7b15ea987efde5.MensajeIngresoDialogo" />
+    <activity android:configChanges="orientation|screenSize" android:screenOrientation="portrait" android:theme="@style/ThemeNoActionBarLogin" android:name="md5ea401c9d04a5834e67791fc59fe80a7b.CloseAppDialog" />
+    <activity android:configChanges="orientation|screenSize" android:screenOrientation="portrait" android:theme="@style/ThemeNoActionBarLogin" android:name="md5ea401c9d04a5834e67791fc59fe80a7b.SucursalesDialog" />
+    <activity android:configChanges="orientation|screenSize" android:screenOrientation="portrait" android:theme="@style/ThemeNoActionBarToolbar" android:name="md55f2ea1041836d4de384fe20963b4f7b9.SucursalesActivity" />
+    <receiver android:enabled="true" android:exported="false" android:label="Connectivity Plugin Broadcast Receiver" android:name="md59628c2715c1bb8febcc7ae8402df0582.ConnectivityChangeBroadcastReceiver" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="1999999999" android:authorities="cl.econorente.RegistroCombustibles.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+  <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

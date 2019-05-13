@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/spinnerText"
+    android:text="Oficina"
+    android:textSize="17dp"
+    android:textColor="@color/colorBlanco"
+    android:textColorHint="@color/colorBlanco"     
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="7dp"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:fontFamily="@font/roboto_regular"/>
